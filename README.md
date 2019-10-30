@@ -7,4 +7,8 @@ Fork this repository and add your name to the README!
 
 
 
+
  - Grace Lee
+
+Katie edits 
+
