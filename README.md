@@ -3,6 +3,7 @@ Fork this repository and add your name to the README!
 
 # Names
  - Dev Dabke (ddabke@princeton.edu)
+ - Beryl Jones
  - Prerit
  - James Anderson
  - Julia Chuang
